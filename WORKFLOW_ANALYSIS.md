@@ -52,4 +52,4 @@ environment:
 
 # 6. What would happen if you pushed code to a different branch (not main)?
 - The workflow would not run because it is configured to trigger only on push or pull_request events targeting main
-- No deployment, HTML validation, or link checking would occur for other branches
+- No deployment, HTML validation, or link checking would occur for other branches.
